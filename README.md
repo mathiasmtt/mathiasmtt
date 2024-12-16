@@ -1,4 +1,4 @@
-# Hi, I'm mat 👋
+# Hi, I'm mat! 👋
 
 Welcome to my GitHub profile! ✨
 
@@ -29,6 +29,7 @@ Welcome to my GitHub profile! ✨
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=yellow)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### Blockchain Technologies
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
