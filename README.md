@@ -18,9 +18,8 @@ Welcome to my GitHub profile! ✨
 ---
 
 ## 🌍 Connect with Me
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-username)
-- [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/your-username)
-- [![Portfolio](https://skillicons.dev/icons?i=chrome)](https://your-website.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-username)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/your-username)
 
 ---
 
