@@ -16,12 +16,6 @@ Welcome to my GitHub profile! ✨
 
 ---
 
-## 🌍 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-username)
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/your-username)
-
----
-
 ## 🛠️ Skills
 
 ### Programming Languages
