@@ -39,10 +39,6 @@ Welcome to my GitHub profile! ✨
 ![Excel](https://skillicons.dev/icons?i=excel)
 ![Power BI](https://skillicons.dev/icons?i=powerbi)
 
----
-
-## 🛡️ Fun Fact
-• I believe that good analysis starts with curiosity and ends with pizza! 🍕😂
 
 ---
 
