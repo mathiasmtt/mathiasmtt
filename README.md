@@ -10,12 +10,6 @@ Welcome to my GitHub profile! ✨
 - 💼 **Senior in International Trade** – I bring years of experience in managing and optimizing foreign trade operations.
 
 ---
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
-
 ## 🛠️ Skills
 
 ### Programming Languages
