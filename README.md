@@ -1,6 +1,6 @@
 # Hi, I'm mat! 👋
 
-Welcome to my GitHub profile! ✨
+Welcome
 
 ---
 
