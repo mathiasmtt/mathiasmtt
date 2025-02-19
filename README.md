@@ -1,6 +1,4 @@
-# Hi, I'm mat! 👋
-
-Welcome
+# Hey Welcome, I'm mat! 👋
 
 ---
 ## 🐧 About Me
