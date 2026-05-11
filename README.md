@@ -1,7 +1,7 @@
 # Hey Welcome, I'm mat! 👋
 ---
 ## 🐧 About Me
-- ✏️ **Public Accounting Student**  
+- ✏️ **Public Accounting**  
 - ⛓️‍💥 **Blockchain Data Analysis** 
 - 🚁 **FPV Drones & AI Enthusiast** 
 - 💼 **Senior in International Trade**
